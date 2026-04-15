@@ -1,12 +1,14 @@
-h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
+.app {
+  font-family: Arial, sans-serif;
+}
 
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+.textarea {
+  border: none;
+  outline: none;
+  resize: none;
+  font-size: 16px;
+}
+
+.preview {
+  background-color: #f9f9f9;
 }
